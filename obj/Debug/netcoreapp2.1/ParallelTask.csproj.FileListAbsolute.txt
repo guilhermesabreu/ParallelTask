@@ -1,0 +1,11 @@
+C:\src\WS- Web\ParallelTask\bin\Debug\netcoreapp2.1\ParallelTask.deps.json
+C:\src\WS- Web\ParallelTask\bin\Debug\netcoreapp2.1\ParallelTask.runtimeconfig.json
+C:\src\WS- Web\ParallelTask\bin\Debug\netcoreapp2.1\ParallelTask.runtimeconfig.dev.json
+C:\src\WS- Web\ParallelTask\bin\Debug\netcoreapp2.1\ParallelTask.dll
+C:\src\WS- Web\ParallelTask\bin\Debug\netcoreapp2.1\ParallelTask.pdb
+C:\src\WS- Web\ParallelTask\obj\Debug\netcoreapp2.1\ParallelTask.csprojAssemblyReference.cache
+C:\src\WS- Web\ParallelTask\obj\Debug\netcoreapp2.1\ParallelTask.csproj.CoreCompileInputs.cache
+C:\src\WS- Web\ParallelTask\obj\Debug\netcoreapp2.1\ParallelTask.AssemblyInfoInputs.cache
+C:\src\WS- Web\ParallelTask\obj\Debug\netcoreapp2.1\ParallelTask.AssemblyInfo.cs
+C:\src\WS- Web\ParallelTask\obj\Debug\netcoreapp2.1\ParallelTask.dll
+C:\src\WS- Web\ParallelTask\obj\Debug\netcoreapp2.1\ParallelTask.pdb
